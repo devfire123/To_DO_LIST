@@ -16,7 +16,7 @@ The To-Do List app is a simple and efficient task management tool that helps you
 - 🔢 Sort tasks based on due dates in ascending order.
 
 ## Screenshots 📸
-![Capture](screenshots/Capture.png)
+![Screenshot](screenshots/Capture.png)
 
 ![Screenshot 1](screenshots/Screenshot_6.png)
 
